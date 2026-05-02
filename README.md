@@ -68,10 +68,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chundawat-h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chundawat-h&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chundawat-h&layout=compact&theme=tokyonight&hide_border=true"/>
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats-pm7fur4z3-chundawat-hs-projects.vercel.app/api?username=chundawat-h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-pm7fur4z3-chundawat-hs-projects.vercel.app/api/top-langs/?username=chundawat-h&layout=compact&theme=tokyonight&hide_border=true"/>
+
+  <!-- Streak Stats (still hosted separately on Heroku) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chundawat-h&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
