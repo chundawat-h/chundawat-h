@@ -1,51 +1,80 @@
-# Hi 👋, I'm Himanshu Chundawat  
+<div align="center">
 
+# Hi 👋, I'm **Himanshu Chundawat**  
 🎓 B.Tech Computer Science @ Sitare University (SRMU)  
-💻 Passionate about AI • Machine Learning • Web Development • Backend Engineering • Data Science
+💻 Passionate about **AI • Machine Learning • Web Development • Backend Engineering • Data Science**
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently building **Habit Tracking & Analytics System** and **Stack Overflow Tags Trend Visualizer**
-- 🌱 Exploring **Machine Learning** and **Search Engine & Information Retrieval**
-- 👯 Open to collaborating on **Full-Stack & Data Science projects**
-- 💬 Ask me about **Python, Flask, JavaScript, and Data Visualization**
-- 📫 Reach me at: **su-24056@sitare.org**
-- ⚡ Fun fact: I love turning algorithms into interactive visual tools!
+## 🧠 Technical Skills
+
+### 🖥️ Programming Languages  
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+### 🌐 Web Technologies  
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white"/>
+</p>
+
+### 🧮 Data Science & Machine Learning  
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetworkX-009688?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Platforms  
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PythonAnywhere-1A73E8?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-kanwar-chundawat)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/chundawat-h)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=firefox)]( https://himanshu-chundawat-portfolio.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/himanshu_chundawat/)
+## 🧩 Featured Projects
 
----
-
-## 🛠️ Technical Skills
-**Languages:** Python, Java, JavaScript, C  
-**Web Tech:** HTML, CSS, Flask, TailwindCSS, REST API  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Linux, Pandas, NumPy, Matplotlib, NetworkX, Git, GitHub, TensorFlow, Figma  
-
----
-
-## 📌 Featured Projects
-- [Habit Tracking & Analytics System](https://github.com/chundawat-h/HabitTracker) – Progress visualization with charts & persistent storage  
-- [LinkedIn Networking Graph Analysis](https://github.com/chundawat-h/LinkedinNetworkingAnalysis) – Graph-based study using NetworkX  
-- [Stack Overflow Tags Trend Visualizer](https://github.com/chundawat-h/Stack-Overflow-Tags-Trend-Visualizer) – Full-stack app with Flask & Pandas  
-- [E-Commerce Price & Review Analyzer](https://github.com/chundawat-h/EcommercePriceComparator) – Live scraping APIs for product comparison  
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| **Habit Tracking & Analytics System** | 1-year habit tracker with visual progress charts and persistent storage | HTML, CSS, JS, Chart.js |
+| **LinkedIn Networking Graph Analysis** | Graph-based study of networking patterns using random/pruned walks | Python, NetworkX, Matplotlib |
+| **Stack Overflow Tags Trend Visualizer** | Full-stack app analyzing tag trends with interactive charts | Flask, Pandas, REST API |
+| **E-Commerce Price & Review Analyzer** | Backend system comparing Amazon & Flipkart products | Flask, ScraperAPI, JSON |
+| **College Management System** | Manages student enrollment, courses, and faculty data | Flask, HTML, CSS, JS |
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chundawat-h&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chundawat-h&layout=compact&theme=radical)  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chundawat-h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chundawat-h&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chundawat-h&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 Scholarships
-- 🎓 100% B.Tech CS Scholarship – Sitare Foundation  
-- 🎓 Reliance Undergraduate Scholarship – Reliance Foundation  
-
+- 🎓 **100% B.Tech CS Scholarship** – Sitare Foundation  
+- 🎓 **Reliance Undergraduate Scholarship** – Reliance Foundation
