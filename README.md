@@ -84,3 +84,29 @@
 ## 🏆 Scholarships
 - 🎓 **100% B.Tech CS Scholarship** – Sitare Foundation  
 - 🎓 **Reliance Undergraduate Scholarship** – Reliance Foundation
+
+## Open Source Contributions 🚀
+
+Participating in GirlScript Summer of Code 2026 (GSSoC'26) and actively contributing to open-source projects.
+
+### Achievements
+- 6+ merged pull requests
+- Under 600 contributor rank
+- Earned badges:
+  <p align = "center">
+  <img width="200" height="200" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/cb76f57b-e4ea-489f-b755-304076d2b1ba" />
+
+
+  <img width="200" height="200" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/f8d7ed5e-100d-4249-91f3-c7f435e8bb29" />
+
+    <img width="200" height="200" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/cb869381-264d-4c21-af3f-740401881910" />   
+
+  </p>
+    
+
+Focused on improving:
+- JavaScript and python development
+- Git & GitHub workflows
+- Real-world collaboration
+- Codebase understanding
+- Open-source contribution practices
