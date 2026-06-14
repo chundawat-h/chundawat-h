@@ -93,15 +93,18 @@ Participating in GirlScript Summer of Code 2026 (GSSoC'26) and actively contribu
 - 6+ merged pull requests
 - Under 600 contributor rank
 - Earned badges:
-  <p align = "center">
+  <p align = "center" >
   <img width="200" height="200" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/cb76f57b-e4ea-489f-b755-304076d2b1ba" />
-
-
+  <img width="200" height="200" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/8c66af24-64ae-4bd3-a5fa-6d18c710b2d6" />
   <img width="200" height="200" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/f8d7ed5e-100d-4249-91f3-c7f435e8bb29" />
+ </p>
 
-    <img width="200" height="200" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/cb869381-264d-4c21-af3f-740401881910" />   
+ <p align = "center">
+    <img width="200" height="200" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/cb869381-264d-4c21-af3f-740401881910" /> 
+   <img width="200" height="200" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/e08adca6-7df3-43e6-9e37-31900ecc30da" />
 
-  </p>
+</p>
+ 
     
 
 Focused on improving:
